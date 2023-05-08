@@ -1,0 +1,29 @@
+- index.html
+- assets/
+  - images/
+    - game_map.png
+    - character_sprite.png
+    - item_icons/
+      - item1.png
+      - item2.png
+    - enemy_sprites/
+      - enemy1.png
+      - enemy2.png
+  - sounds/
+    - sound1.mp3
+    - sound2.wav
+- scripts/
+  - phaser.min.js
+  - game.js
+  - player.js
+  - chat.js
+  - inventory.js
+  - quests.js
+  - admin_panel.js
+- php/
+  - database.php
+  - player_handler.php
+  - chat_handler.php
+  - admin_panel_handler.php
+- css/
+  - styles.css
